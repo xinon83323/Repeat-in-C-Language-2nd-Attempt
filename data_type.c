@@ -1,5 +1,8 @@
 #include<stdio.h> // Preprocessoer directive
 int main ( ) {
-    printf("Hello World !\n");
+    int age = 19 ;
+    float pi = 3.14 ;
+    char hashtag = '#' ;
+
     return 0;
 }
